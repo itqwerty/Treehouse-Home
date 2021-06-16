@@ -1,0 +1,176 @@
+.latest-project {
+	background: url(../images/iPad.png);
+	min-height: 724px;
+	background-repeat: no-repeat;
+	background-position: 100% 154px;
+	text-align: center;
+}
+
+
+.latest-project h1 {
+	margin-top: 100px;
+	text-transform: uppercase;
+	font-size: 40px;
+	color: #222222;
+	margin-bottom: 20px;
+}
+
+.p-after-h1 {
+	font-size: 20px;
+	color: #777777;
+	margin-bottom: 90px;
+}
+
+.desc-latest-project {
+	text-align: left;
+	width: 470px;
+}
+
+.desc-latest-project h2 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.desc-latest-project p {
+	font-size: 16px;
+	color: #777777;
+	margin: 20px 0;
+}
+
+.desc-latest-project ul h3 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.desc-latest-project ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+.desc-latest-project ul li {
+	display: flex;
+	align-items: center;
+	margin-bottom: 15px;
+}
+
+.li-right p {
+	margin: 0;
+}
+
+.li-left {
+	border: 2px solid black;
+	border-radius: 100%;
+	padding: 10px 8px;
+	margin-right: 10px;
+}
+
+.desc-latest-project span {
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #7cc576;	
+}
+
+.fa-trash-alt, .fa-unlock-alt {
+	padding: 0 4px;
+}
+
+p {
+	font-size: 20px;
+	color: #777777;
+	text-align: center;
+	margin-bottom: 90px;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 100px;
+}
+
+.block {
+	position: relative;
+}
+
+.our-clients .block:nth-child(1):after, .our-clients .block:nth-child(2):after {
+	content: "";
+	display: inline-block;
+	width: 180px;
+	height: 1px;
+	border-bottom: 2px solid #777777;
+	position: absolute;
+	top: 45px;
+    left: 218px;
+}
+
+
+
+.color {
+	background: #f9f9f9;
+}
+
+
+.desc-awesome {
+	background: url(../images/bg-awesome.png);
+	height: 486px;
+	position: relative;
+}
+
+.desc-awesome .ppp {
+	color: #777777;
+	font-size: 22px;
+	display: block;
+	margin-bottom: 15px;
+}
+
+.desc-awesome .right {
+	width: 630px;
+	text-align: center;
+	position: relative;
+	left: 268px;
+    top: 72px;
+    overflow: hidden;
+}
+
+.desc-awesome .left {
+	width: 630px;
+	text-align: center;
+	position: relative;
+	top: 247px;
+    left: 39px;
+    overflow: hidden;
+}
+
+.desc-awesome span {
+	color: #7cc576;
+	font-size: 18px;
+}
+
+
+.green-line {
+	background: #7cc576;
+	text-align: center;
+	padding: 70px 0;
+}
+
+.green-line span {
+	font-size: 40px;
+	color: #fff;
+	display: block;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.green-line button {
+	background: transparent;
+	color: #fff;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 15px 25px;
+	margin-top: 25px;
+}
+

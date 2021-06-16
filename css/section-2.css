@@ -1,0 +1,64 @@
+.section-2 {
+	background: url(../images/section-2.png);
+	min-height: 615px;
+}
+
+.desc-section-2 {
+	min-height: 415px;
+	width: 650px;
+	margin-left: 290px;
+	margin-top: 100px;
+}
+
+.desc-section-2 h1 {
+	font-size: 40px;
+	color: #fff;
+	margin-bottom: 45px;
+}
+
+.span-h1 {
+	font-size: 40px;
+	color: green;
+}
+
+.desc-section-2 p {
+	font-size: 16px;
+	color: #cccccc;
+	margin-bottom: 20px;
+}
+
+
+.desc-section-2 ul {
+	padding: 0;
+	list-style-type: none;
+	margin-bottom: 50px;
+}
+
+.desc-section-2 ul li {
+	font-size: 16px;
+	color: #cccccc;
+	margin-bottom: 10px;
+}
+
+.border-mark {
+	border:1px solid #cccccc;
+	border-radius: 100%;
+	padding: 5px;
+	margin-right: 15px;
+}
+
+.desc-section-2 button {
+	color: #fff;
+	font-size: 16px;
+	background: #7cc576;
+	outline: none;
+	border: none;
+	border-radius: 50px;
+	padding: 20px 35px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.desc-section-2 button:hover {
+	cursor: pointer;
+}

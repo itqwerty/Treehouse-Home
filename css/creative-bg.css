@@ -1,0 +1,40 @@
+.creative-bg {
+	background:url(../images/bg-creative.png);
+	min-height: 530px;
+}
+
+.desc-creative {
+	/*padding: 0px 250px 0px 250px;*/
+	
+	text-align: center;
+}
+
+.desc-creative h1 {
+	font-size: 45px;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: "Myriad Pro";
+}
+
+.desc-creative p {
+	font-size: 20px;
+	color: #cccccc;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}	
+
+.desc-creative button {
+	color: #222222;
+	font-size: 16px;
+	background: #7cc576;
+	outline: none;
+	border: none;
+	border-radius: 50px;
+	padding: 25px 50px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.desc-creative button:hover {
+	cursor: pointer;
+}

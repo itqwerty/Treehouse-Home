@@ -1,0 +1,43 @@
+.services {
+	padding: 100px 0;
+	text-align: center;
+}
+
+
+.services h1 {
+	text-transform: uppercase;
+	font-size: 40px;
+	color: #222222;
+	margin-bottom: 20px;
+}
+
+.services p {
+	font-size: 20px;
+	color: #777777;
+	margin-bottom: 90px;
+}
+
+.block {
+	width: 30.85%;
+	min-height: 180px;
+	text-align: center;
+}
+
+.block h2 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #222222;
+	text-transform: uppercase;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.block p {
+	font-size: 14px;
+	color: #777777;
+}
+
+.blocks {
+	display: flex;
+	justify-content: space-between;
+}
